@@ -2,6 +2,14 @@ header {
   background: #E87A7A;
 }
 
+main {
+  display: grid;
+  grid-template-areas:
+    'aside article article'
+    'aside footer footer';
+    grid-gap: 30px
+}
+
 aside {
   background: #F2D2D2;
 }
