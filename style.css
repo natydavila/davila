@@ -2,8 +2,10 @@ header {
   padding: 30px;
   background: #E87A7A;
  background-image: url('https://images.unsplash.com/photo-1499984290398-e50238823f66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
-background-size: cover;
-  background-attachment: fixed;
+ background-size: cover;
+ background-attachment: fixed;
+ background-position: center;
+ height: 100%;
 }
 
 main {
